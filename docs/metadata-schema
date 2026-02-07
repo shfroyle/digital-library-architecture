@@ -1,2 +1,15 @@
 # Metadata Schema
 The digital library uses a lightweight Dublin Core-inspired schema.
+
+## Core Fields
+- Title
+- Creator
+- Resource Type
+- Subject Category
+- Tags
+- Description
+- URL
+- License
+- Date Added
+
+The schema is designed for scalabilityu and future migration into digital collection platforms such as Omeka.
